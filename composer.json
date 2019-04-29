@@ -27,5 +27,8 @@
 		"psr-4" : {
 			"raoul2000\\bootswatch4\\" : ""
 		}
-	}
+	},
+	"suggest": {
+        "yiisoft/yii2-bootstrap4": "The official Yii 2 Bootstrap 4 Extension"
+    }
 }
