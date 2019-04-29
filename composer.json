@@ -1,0 +1,31 @@
+{
+	"name" : "raoul2000/yii2-bootswatch4-asset",
+	"description" : "Use Bootswatch theme compatible with Bootstrap 4, in your Yii2 application with minimum effort",
+	"type" : "yii2-extension",
+	"keywords" : [
+		"yii2",
+		"extension",
+		"assets",
+		"bootstrap4",
+		"skin",
+		"bootswatch4",
+		"theme",
+		"stlye",
+		"css"
+	],
+	"license" : "BSD-3-Clause",
+	"authors" : [{
+			"name" : "Raoul",
+			"email" : "raoul.boulard@gmail.com"
+		}
+	],
+	"require" : {
+        "yiisoft/yii2" : "*",
+        "thomaspark/bootswatch" : "4.3.1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"raoul2000\\bootswatch4\\" : ""
+		}
+	}
+}
