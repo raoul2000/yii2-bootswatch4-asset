@@ -1,8 +1,10 @@
 # yii2-bootswatch4-asset
 
-Asset bunlde around the Bootswatch theme suite based on **bootstrap 4**. Visit [Bootswatch](http://bootswatch.com/) for more.
+Asset bunlde around the [Bootswatch Theme Suite](http://bootswatch.com/) based on **bootstrap 4**.
 
 [![Latest Stable Version](https://poser.pugx.org/raoul2000/yii2-bootswatch4-asset/v/stable.svg)](https://packagist.org/packages/raoul2000/yii2-bootswatch4-asset) [![Total Downloads](https://poser.pugx.org/raoul2000/yii2-bootswatch4-asset/downloads.svg)](https://packagist.org/packages/raoul2000/yii2-bootswatch4-asset) 
+
+If you are using Bootstrap 3, please refer to the dedicated extension [yii2-bootswatch-asset](https://github.com/raoul2000/yii2-bootswatch-asset).
 
 
 Installation
