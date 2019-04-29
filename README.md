@@ -7,8 +7,7 @@ Asset bunlde around the [Bootswatch Theme Suite](http://bootswatch.com/) based o
 If you are using Bootstrap 3, please refer to the dedicated extension [yii2-bootswatch-asset](https://github.com/raoul2000/yii2-bootswatch-asset).
 
 
-Installation
-------------
+## Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
@@ -27,8 +26,7 @@ or add
 to the require section of your `composer.json` file.
 
 
-Usage
------
+## Usage
 
 Note that this asset bundle  **does NOT include Bootstrap 4 files**, but only the [Bootswatch](http://bootswatch.com/) CSS files dedicated to *overload* Bootstrap default theme. To use the Bootstrap 4 files with your Yii2 application, check the [yii2-bootstrap4](https://github.com/yiisoft/yii2-bootstrap4) extension.
 
@@ -66,7 +64,10 @@ AppAsset::register($this);
 
 ```
 
-License
--------
+## About Versioning
+
+By convention this extension is using the same version number as the [project thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) it depends on. Consequently, the first version of this extension is 4.3.1.
+
+## License
 
 **yii2-bootswatch4-asset** is released under the BSD 3-Clause License. See the bundled `LICENSE.md` for details.
